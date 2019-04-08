@@ -1,0 +1,12 @@
+{
+  "name": "vv-hilite",
+  "version": "1.0.0",
+  "description": "Vue directove to handle hightlight on focus",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TOJ",
+  "license": "ISC"
+}
